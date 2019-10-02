@@ -29,20 +29,20 @@
     },
     "LOCATION": {
       "description": "Set your Location for Time Plugin",
-      "value": "",
+      "value": "sudan",
       "required": false
     },
     "APP_ID": {
       "description": "بتلقاهو هنا my.telegram.org! ",
-      "value": ""
+      "value": "عامل زي ده 12345"
     },
     "API_HASH": {
       "description": "بتلقاهو هنا my.telegram.org! احذر السرقه",
-      "value": ""
+      "value": "عامل زي ده s4r6j889ihgy776558jyuju6"
     },
     "HU_STRING_SESSION": {
-      "description": "write nazi and copy this (GenerateStringSession.py locally)",
-      "value": ""
+      "description": "write nazi and copy this (python3 GenerateStringSession.py locally)",
+      "value": "nazi"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
