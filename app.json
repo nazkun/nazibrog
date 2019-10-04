@@ -33,12 +33,12 @@
       "required": false
     },
     "APP_ID": {
-      "description": "بتلقاهو هنا my.telegram.org! ",
-      "value": "عامل زي ده 12345"
+      "description": " ما تكتب حاجه  ",
+      "value": "1072213"
     },
     "API_HASH": {
-      "description": "بتلقاهو هنا my.telegram.org! احذر السرقه",
-      "value": "عامل زي ده s4r6j889ihgy776558jyuju6"
+      "description": "ما تكتب حاجه ",
+      "value": "aee2222c8b7348402e60a0e1e31a25f2"
     },
     "HU_STRING_SESSION": {
       "description": "write nazi and copy this (python3 GenerateStringSession.py locally)",
